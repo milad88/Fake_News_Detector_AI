@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "fake_news_detector_ai"
+version = "0.1.0"
+description = ""
+authors = ["milad88 <miladkiwan@hotmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9, <3.11"
+pandas="^2.1.1"
+scikit-learn="^1.3.2"
+tensorflow-io-gcs-filesystem="0.23.1"
+tensorflow="^2.15.0"
+tensorflow_text="^2.13"
+tensorflow_hub="^0.13.0"
+transformers="^4.35.0"
+matplotlib="^3.6"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
