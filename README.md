@@ -4,7 +4,7 @@ This repository contains code for a Fake News Detector AI, designed to classify 
 
 ## Introduction
 The main idea behind this project is exercising, and since Fake news has become a significant concern in recent times due to its potential to manipulate public opinion and spread misinformation. This project aims to address this issue by leveraging machine learning models to automatically identify fake news articles.
-
+Fake News Detection Dataset from Kaggle link Fake News Detection is used.
 ## Features
 
 - Utilizes state-of-the-art natural language processing techniques.
